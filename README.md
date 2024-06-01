@@ -1,3 +1,3 @@
-#  SQLite Login Android App
+# SQLite Android App
 
-This is a android app in which there is a simple android app which uses SQLite Database
+This Android application demonstrates the basic functionalities of using an SQLite database within an Android environment. It provides a straightforward implementation that allows users to perform standard CRUD (Create, Read, Update, Delete) operations on a local SQLite database. The app features a simple and user-friendly interface, making it easy to input and manage data. The core functionalities include adding new records, retrieving and displaying stored records, updating existing records, and deleting records as needed. This project serves as an excellent starting point for developers looking to understand how to integrate and use SQLite databases in their Android applications. The source code is well-documented and structured to facilitate easy comprehension and extension.
